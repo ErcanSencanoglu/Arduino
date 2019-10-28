@@ -1,0 +1,12 @@
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\bin\Debug\ArudinoQuad.exe.config
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\bin\Debug\ArudinoQuad.exe
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\bin\Debug\ArudinoQuad.pdb
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.csprojResolveAssemblyReference.cache
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.Form1.resources
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.Properties.Resources.resources
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.csproj.GenerateResource.Cache
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.exe
+c:\users\ercan\documents\visual studio 2015\Projects\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.pdb
+C:\Users\Ercan\Desktop\github\ArudinoQuad\ArudinoQuad\bin\Debug\ArudinoQuad.exe.config
+C:\Users\Ercan\Desktop\github\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.exe
+C:\Users\Ercan\Desktop\github\ArudinoQuad\ArudinoQuad\obj\Debug\ArudinoQuad.pdb
